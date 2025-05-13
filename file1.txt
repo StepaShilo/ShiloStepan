@@ -9,3 +9,4 @@ int main() {
     return 0;
 }
 "Новая строка в file1" 
+"Изменение из master" 
