@@ -8,3 +8,4 @@ int main() {
     
     return 0;
 }
+"Новая строка в file1" 
