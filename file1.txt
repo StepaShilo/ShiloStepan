@@ -10,3 +10,5 @@ int main() {
 }
 "Новая строка в file1" 
 "Изменение из master" 
+"Изменение из branch1" 
+branch1
